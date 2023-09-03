@@ -1,4 +1,4 @@
-import { Container, Icon, Typography } from "@mui/material";
+import { Container, Typography } from "@mui/material";
 import ContactPhoneIcon from '@mui/icons-material/ContactPhone';
 
 export default function Home() {
